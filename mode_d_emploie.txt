@@ -1,0 +1,79 @@
+╔═✦━━━━━━━━✦〘🏴‍☠️〙✦━━━━━━━━✦═╗
+        𝐌𝐎𝐃𝐄 𝐃'𝐄𝐌𝐏𝐋𝐎𝐈 – 𝐕𝐀𝐍𝐒𝐁𝐎𝐓 𝙑𝟰
+          👑 𝐓𝐡𝐞𝐦𝐞 : 𝐋𝐔𝐅𝐅𝐘 𝐑𝐎𝐈 𝐃𝐄𝐒 𝐏𝐈𝐑𝐀𝐓𝐄𝐒
+╚═✦━━━━━━━━✦〘🏴‍☠️〙✦━━━━━━━━✦═╝
+
+🔹 𝙋𝙍𝙀́𝙍𝙀𝙌𝙐𝙄𝙎 :
+➤ Préfixes valides : `!`, `$`, `^`, `%`, `~`
+➤ Respectez l'ordre des arguments  
+➤ Répondez aux messages quand nécessaire
+
+╭─────≿✨ 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐄𝐒 𝐃𝐈𝐒𝐏𝐎𝐍𝐈𝐁𝐋𝐄𝐒 ✨≾─────╮
+
+🔍 𝐈𝐍𝐅𝐎 𝐆𝐄𝐍𝐄𝐑𝐀𝐋𝐄
+• !help / !menu → Affiche ce menu
+• !ping → Test de vitesse du bot
+• !date → Date et heure du Grand Line
+• !info → Informations utilisateur
+• !quote → Citation du Roi des Pirates
+
+📞 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐂𝐀𝐓𝐈𝐎𝐍
+• !contact <numéro> <nom>  
+→ Ex : `!contact 237612345678 Luffy`
+• !loc <lat> <long> <nom>  
+→ Ex : `!loc 4.05 11.7 Raftel`
+
+🖼️ 𝐌𝐄𝐃𝐈𝐀𝐒 & 𝐒𝐓𝐎𝐂𝐊𝐀𝐆𝐄
+• !store <nom> → Sauvegarde un trésor (répondre)
+→ Ex : `!store chant_binks`
+• !list → Liste tous les trésors
+• !delmedia <nom> → Jette un trésor à la mer
+• !img <nom> — !vid <nom> — !aud <nom> — !gif <nom>
+→ Ex : `!vid gear_fifth`
+• !stk <nom> → Crée un Jolly Roger personnalisé
+• !tostk → Transforme en autocollant (répondre)
+• !tiktok <lien> → Télécharge depuis TikTok
+• !vu → Affiche les vues (répondre)
+
+⚡ 𝐀𝐔𝐓𝐎𝐌𝐀𝐓𝐈𝐒𝐌𝐄𝐒
+• !autoreact → Active les réactions automatiques
+• !autowrite → Active l'écriture automatique  
+• !autovustatut → Gère les statuts "vu"
+• !antistatut → Bloque les statuts indésirables
+
+👑 𝐌𝐎𝐃𝐄𝐑𝐀𝐓𝐈𝐎𝐍 (Capitaine uniquement)
+• !welcome / !welcome off → Messages de bienvenue
+• !promote @ → Nomme un commandant
+• !promoteall → Nomme tous les commandants
+• !demote @ → Rétrograde un membre
+• !demoteall → Rétrograde tout l'équipage
+• !kick @ / !kickall → Débarque un membre
+• !mute <secondes> / !unmute → Réduit au silence
+• !tagall [msg] → Appel de l'équipage
+• !tagadmin [msg] → Appel des commandants
+• !setpp → Change la photo d'équipage (répondre)
+
+🛡️ 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐄 𝐃𝐔 𝐍𝐀𝐕𝐈𝐑𝐄
+• !antilink → Protection contre les Marines
+• !antimedia → Bloque les médias indésirables
+• !antibot → Défense contre les robots
+• !antispam → Protection anti-spam
+• !isadmin @ → Vérifie le rang
+• !groupinfo → Informations sur l'équipage
+
+🎭 𝐃𝐈𝐕𝐄𝐑𝐓𝐈𝐒𝐒𝐄𝐌𝐄𝐍𝐓
+• !motivation → Discours de Luffy
+• !playaudio <requête> → Joue un audio
+• !playvideo <requête> → Joue une vidéo  
+• !youtube <lien> → Télécharge depuis YouTube
+
+🎨 𝐏𝐄𝐑𝐒𝐎𝐍𝐍𝐀𝐋𝐈𝐒𝐀𝐓𝐈𝐎𝐍
+• !take → Prend et personnalise un sticker
+
+╰───≿⚠️ 𝐍𝐎𝐓𝐄𝐒 𝐃𝐔 𝐂𝐀𝐏𝐈𝐓𝐀𝐈𝐍𝐄 ⚠️≾───╯
+• Le bot doit être admin pour modérer
+• Utilisez `stop` pour interrompre les commandes massives
+• Répondez toujours au message cible pour les actions précises
+• Nouvelles fonctionnalités V4 : TikTok, antistatut, automatisations
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
